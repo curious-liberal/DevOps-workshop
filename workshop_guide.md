@@ -338,7 +338,7 @@ CPU's understand a very limited instruction set. They can add numbers, subtract,
 
 When you write code it's always put down into machine code. Other people have made compilers which turn your lovely `print(5+7)` to machine code. So what is machine code?
 
-Let's take look at Assembly Language. This is what is used at the lowest level. It was created by Ada Lovelace who made the first programming language.
+Let's take look at Assembly Language. This is what is used at the lowest level. 
 
 If we want to add two numbers we need to execute the following Assembly Code
 ```
