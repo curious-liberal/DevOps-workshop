@@ -434,7 +434,7 @@ Here you can see this C code being put into instructions which are added to RAM 
 
 For our purposes RAM is just a list of instructions. RAM can be encoded in different ways but I'm going to abstract this a little so it won't be truly accurate but it's not far off. Please study the diagram below.
 
-![RAM with instruction and program counter]
+![RAM with instruction and program counter](./images/Program-Counter-GFG.webp)
 
 So you can here that instructions for the memory are stored in a list. Each instruction has an address attributed to it along with the instructions. This is so when we `JMP` we can actually go to the specific RAM address.
 
